@@ -22,5 +22,8 @@ tar --append --file=$BACKUP_DIR/$FILE --transform $DB_TRANSFORM $BACKUP_DIR/$DB_
 rm $BACKUP_DIR/$DB_FILE
 gzip -9 $BACKUP_DIR/$FILE
 
-
+cd /home/bhanukolli/WP-Blog
+git add .
+git commit -m "WP-Blog Auto Commit"
+git push origin master
 
