@@ -1,0 +1,658 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moderna\n"
+"POT-Creation-Date: 2014-04-13 14:36+0700\n"
+"PO-Revision-Date: 2014-04-13 14:36+0700\n"
+"Last-Translator: \n"
+"Language-Team: iWebStudio <info@iweb-studio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:15
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:15 ../includes/content.php:40
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:15 ../includes/content.php:40
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:48
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:48
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:48
+msgid " to post a comment."
+msgstr ""
+
+#: ../comments.php:55
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:55
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Your comment"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Send"
+msgstr ""
+
+#: ../functions.php:298
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:299
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:455 ../functions/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:456 ../functions/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:457 ../functions/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:458
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:469 ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:470 ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:471
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../search.php:44
+msgid "No results found for"
+msgstr ""
+
+#: ../searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:558
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:136
+msgid "Sidebar position"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:137
+msgid "Select sidebar alignment. Choose between right or left"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:148
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:149
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:158
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:159
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:181
+msgid "Enter your logo text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:187
+msgid "Use image as logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:188
+msgid ""
+"Switch ON or OFF to enable disable logo image, Logo text will disabled when "
+"you choose to use image logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:197
+msgid "Upload your top logo image"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:216
+msgid "Call action"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:217
+msgid "Switch ON or OFF to enable disable call action under homepage slider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:225
+msgid "Enter your call action text, HTML tag allowed"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:249
+msgid "Footer Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:250
+msgid "Footer copyright text on bottom right"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:264
+msgid "Social links"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:265
+msgid "Switch ON or OFF to enable disable footer social links"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:271
+msgid "Facebook URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:272
+msgid "Enter your facebook profile url"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:279
+msgid "Twitter profile URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:280
+msgid "Enter your twitter profile url"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:287
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:288
+msgid "Enter your linkedin profile url"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:295
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:296
+msgid "Enter URL of your pinterest profile"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:302
+msgid "Google plus URL"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:303
+msgid "Enter URL of your GOogle plus profile"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:354
+#: ../admin/functions/functions.options.php:395
+msgid "Use standard font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:355
+msgid "check to activate and change default body font with other standard font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:371
+msgid "Use google font for Body"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:372
+msgid "check to activate and use google font for body font family"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:396
+msgid ""
+"check to activate and change default Secondary font with other standard font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:412
+msgid "Use google font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:413
+msgid ""
+"activate and use google font will override selected standard font family "
+"above"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:431
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:446
+msgid "Portfolio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:450
+msgid "Portfolio page pagination"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:451
+msgid "Switch ON or OFF to enable disable pagination on portfolio page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:458
+msgid "Portfolio item count per page when paginated"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:459
+msgid "Enter how many portfolio item on each page when pagination enabled"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:471
+msgid "Enable or Disable map on contact page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:472
+msgid "Check to enable map on contact page"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:480
+msgid "Enter your address"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/comments.php:19
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/breadcrumbs.php:23
+msgid "Search Results"
+msgstr ""
+
+#: ../includes/breadcrumbs.php:27
+msgid "404 Not Found"
+msgstr ""
+
+#: ../includes/content.php:20 ../includes/content.php:25
+msgid "Read more"
+msgstr ""
+
+#: ../includes/content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../includes/content.php:30
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/content.php:40
+msgid "0 Comment"
+msgstr ""
+
+#: ../includes/content.php:42
+msgid "Continue reading"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:17
+msgid "Display contact information."
+msgstr ""
+
+#: ../includes/widget-contact-info.php:28
+msgid "Contact info widget"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:90
+msgid "Contact info"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:91
+msgid "Moderna company Inc "
+msgstr ""
+
+#: ../includes/widget-contact-info.php:92
+msgid "Modernbuilding suite V124, AB 01 Someplace 16425 Earth "
+msgstr ""
+
+#: ../includes/widget-contact-info.php:93
+msgid "(123) 456-7890 - (123) 555-7891"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:94
+msgid "email@domainname.com"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:99
+msgid "Widget Title"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:102
+msgid "Company:"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:106
+msgid "Address:"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:110
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/widget-contact-info.php:116
+msgid "Email:"
+msgstr ""
+
+#: ../includes/widget-default.php:6
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../includes/widget-default.php:7 ../includes/widget-default.php:32
+msgid "Moderna Recent Posts"
+msgstr ""
+
+#: ../includes/widget-default.php:90 ../includes/widget-flickr.php:97
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widget-default.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../includes/widget-flickr.php:18
+msgid "Display Flickr photos."
+msgstr ""
+
+#: ../includes/widget-flickr.php:27
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../includes/widget-flickr.php:101
+msgid "Enter unique number ID for multi instance flickr widget:"
+msgstr ""
+
+#: ../includes/widget-flickr.php:105
+msgid "Flickr ID, you can get via http://idgettr.com:"
+msgstr ""
+
+#: ../includes/widget-flickr.php:109
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../templates/page-contact.php:25
+msgid "Get in touch with us by filling"
+msgstr ""
+
+#: ../templates/page-contact.php:25
+msgid "contact form below"
+msgstr ""
+
+#: ../templates/page-contact.php:31
+msgid "Enter your full name"
+msgstr ""
+
+#: ../templates/page-contact.php:31 ../templates/page-contact.php:43
+msgid "Please enter at least 4 chars"
+msgstr ""
+
+#: ../templates/page-contact.php:37
+msgid "Enter your email address"
+msgstr ""
+
+#: ../templates/page-contact.php:37
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../templates/page-contact.php:43
+msgid "Enter your subject"
+msgstr ""
+
+#: ../templates/page-contact.php:49
+msgid "Your message here"
+msgstr ""
+
+#: ../templates/page-contact.php:49
+msgid "Please write something"
+msgstr ""
+
+#: ../templates/page-contact.php:55
+msgid "Submit message"
+msgstr ""
+
+#: ../templates/page-contact.php:56
+msgid "Please fill all required form field, thanks"
+msgstr ""
+
+#: ../templates/page-portfolio.php:28
+msgid "All"
+msgstr ""
