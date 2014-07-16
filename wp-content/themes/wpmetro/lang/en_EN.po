@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPMetro\n"
+"POT-Creation-Date: 2014-03-07 18:59-0000\n"
+"PO-Revision-Date: 2014-03-07 18:59-0000\n"
+"Last-Translator: \n"
+"Language-Team: WPBlink.com <mail@wpblink.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:7
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"The page you were trying to reach has either been renamed or moved to a new "
+"location. This is usually the result of a bad or outdated link."
+msgstr ""
+
+#: 404.php:10
+msgid "We apologize for any inconvenience this may have caused you."
+msgstr ""
+
+#: archive.php:13
+msgid "Video Archives"
+msgstr ""
+
+#: archive.php:15
+msgid "Audio Archives"
+msgstr ""
+
+#: archive.php:17
+msgid "Gallery Archives"
+msgstr ""
+
+#: archive.php:27
+msgid "Archives"
+msgstr ""
+
+#: archive.php:39 index.php:74 search.php:17
+msgid "By"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:19 comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:20 comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21 comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Name"
+msgstr ""
+
+#: comments.php:50
+msgid "Email"
+msgstr ""
+
+#: index.php:77
+msgid "Tagged With: "
+msgstr ""
+
+#: index.php:90 index.php:103
+msgid "Readers Comments:"
+msgstr ""
+
+#: index.php:95
+msgid "ERROR: Disqus Universal Code missing from theme options, please fix."
+msgstr ""
+
+#: library/inc/logo.php:49
+msgid "Use as Logo"
+msgstr ""
+
+#: library/inc/logo.php:64
+msgid "Custom Logo"
+msgstr ""
+
+#: library/inc/logo.php:113
+msgid "Logo Options"
+msgstr ""
+
+#: library/inc/logo.php:114
+msgid "Logo"
+msgstr ""
+
+#: library/inc/logo.php:115
+msgid "Logo Preview"
+msgstr ""
+
+#: library/inc/logo.php:129
+msgid "You can upload any custom image to use as your logo."
+msgstr ""
+
+#: library/inc/logo.php:130
+msgid "(Rectangular images for best results)."
+msgstr ""
+
+#: library/inc/logo.php:138
+msgid "Upload Logo"
+msgstr ""
+
+#: library/inc/logo.php:140
+msgid "Delete Logo"
+msgstr ""
+
+#: library/inc/members.php:35
+msgid "You are not logged in"
+msgstr ""
+
+#: library/inc/members.php:37
+msgid "Lost Password?"
+msgstr ""
+
+#: library/inc/menus.php:41
+msgid "Home"
+msgstr ""
+
+#: library/inc/widgets.php:166
+msgid "Banner Code:"
+msgstr ""
+
+#: library/inc/widgets.php:170
+msgid ""
+"Add your advertisement code for this space (300*250px for best results)."
+msgstr ""
+
+#: library/inc/widgets.php:250 library/inc/widgets.php:349
+#: library/inc/widgets.php:456
+msgid "Title:"
+msgstr ""
+
+#: library/inc/widgets.php:254 library/inc/widgets.php:353
+#: library/inc/widgets.php:460
+msgid "Give this widget a title, or leave blank to display the category name."
+msgstr ""
+
+#: library/inc/widgets.php:258 library/inc/widgets.php:357
+#: library/inc/widgets.php:464
+msgid "Category: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:262
+msgid "Select a specific category to display a post from."
+msgstr ""
+
+#: library/inc/widgets.php:266 library/inc/widgets.php:365
+#: library/inc/widgets.php:472
+msgid "All Categories? &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:270
+msgid ""
+"Check the box to display a post from all categories instead, overriding the "
+"above setting."
+msgstr ""
+
+#: library/inc/widgets.php:274 library/inc/widgets.php:381
+#: library/inc/widgets.php:488
+msgid "Skip X Posts: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:278 library/inc/widgets.php:492
+msgid "Enter how many posts to skip before displaying the posts (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:282
+msgid "Show Text Excerpt? &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:286
+msgid "Check the box to display the posts text excerpt."
+msgstr ""
+
+#: library/inc/widgets.php:361
+msgid "Select a specific category to pull posts from."
+msgstr ""
+
+#: library/inc/widgets.php:369
+msgid ""
+"Check the box to pull posts from all categories instead, overriding the "
+"above setting."
+msgstr ""
+
+#: library/inc/widgets.php:373 library/inc/widgets.php:480
+msgid "Show X Posts: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:377
+msgid "Enter how many posts to display in this list (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:385
+msgid "Enter how many posts to skip before starting the list (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:468
+msgid "Select a specific category to display posts from."
+msgstr ""
+
+#: library/inc/widgets.php:476
+msgid ""
+"Check the box to display posts from all categories instead, overriding the "
+"above setting."
+msgstr ""
+
+#: library/inc/widgets.php:484
+msgid "Enter how many posts to display (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:496
+msgid "Show Images? &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:500
+msgid "Check the box to display thumbnail images alongside each post."
+msgstr ""
+
+#: library/init.php:209
+msgid "Pingback:"
+msgstr ""
+
+#: library/init.php:209 library/init.php:232
+msgid "Edit"
+msgstr ""
+
+#: library/init.php:223
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: library/init.php:228
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/init.php:235
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/init.php:241
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: library/init.php:364
+msgid "LATEST"
+msgstr ""
+
+#: library/init.php:370
+msgid "&nbsp;&nbsp;&nbsp;&nbsp;&#126;&nbsp;&nbsp;&nbsp;&nbsp;"
+msgstr ""
+
+#: library/init.php:372
+msgid "("
+msgstr ""
+
+#: library/init.php:372
+msgid ")"
+msgstr ""
+
+#: library/init.php:492
+msgid "COPYRIGHT"
+msgstr ""
+
+#: library/init.php:492
+msgid "&copy;"
+msgstr ""
+
+#: library/init.php:492
+msgid "."
+msgstr ""
+
+#: options/options.php:26
+msgid "General"
+msgstr ""
+
+#: options/options.php:27
+msgid "Appearance"
+msgstr ""
+
+#: options/options.php:28
+msgid "Social"
+msgstr ""
+
+#: options/options.php:29
+msgid "Miscellaneous"
+msgstr ""
+
+#: options/options.php:46 options/options.php:106
+msgid "Theme Options"
+msgstr ""
+
+#: options/options.php:62
+msgid "Default Field"
+msgstr ""
+
+#: options/options.php:63
+msgid "This is a default description."
+msgstr ""
+
+#: options/options.php:99
+msgid "Theme options updated."
+msgstr ""
+
+#: options/options.php:117
+msgid "Save Changes"
+msgstr ""
+
+#: options/options.php:306
+msgid "Sitename Text"
+msgstr ""
+
+#: options/options.php:307
+msgid "Enter your custom sitename text (Not used if a logo uploaded.)."
+msgstr ""
+
+#: options/options.php:314
+msgid "Description Text"
+msgstr ""
+
+#: options/options.php:315
+msgid "Enter your custom site description text (Not used if a logo uploaded.)."
+msgstr ""
+
+#: options/options.php:333
+msgid "Layout Config"
+msgstr ""
+
+#: options/options.php:334
+msgid "Select your preferred homepage configuration."
+msgstr ""
+
+#: options/options.php:357
+msgid "Date Format"
+msgstr ""
+
+#: options/options.php:358
+msgid "Select your preferred global date format."
+msgstr ""
+
+#: options/options.php:371
+msgid "Search Field"
+msgstr ""
+
+#: options/options.php:372
+msgid "Do you wish to display the built-in search field?"
+msgstr ""
+
+#: options/options.php:383
+msgid "Tickertape"
+msgstr ""
+
+#: options/options.php:384
+msgid ""
+"Do you wish to display the scrolling posts tickertape within the header?"
+msgstr ""
+
+#: options/options.php:410
+msgid "Back To Top Button"
+msgstr ""
+
+#: options/options.php:411
+msgid "Do you wish to enable the Back To Top button within the footer?"
+msgstr ""
+
+#: options/options.php:421
+msgid "Copyright Text"
+msgstr ""
+
+#: options/options.php:422
+msgid ""
+"Add your custom copyright text here (HTML allowed for linking)<br />Or leave "
+"blank to display dynamic copyright text."
+msgstr ""
+
+#: options/options.php:443
+msgid "Body Text"
+msgstr ""
+
+#: options/options.php:444 options/options.php:462
+msgid ""
+"Choose a neutral color for your body text (leave blank for default value)."
+msgstr ""
+
+#: options/options.php:452
+msgid "Alternative Text"
+msgstr ""
+
+#: options/options.php:453
+msgid ""
+"Choose a neutral color for your alternative body text (leave blank for "
+"default value)."
+msgstr ""
+
+#: options/options.php:461
+msgid "Link Text"
+msgstr ""
+
+#: options/options.php:470
+msgid "Metro #1"
+msgstr ""
+
+#: options/options.php:471 options/options.php:498 options/options.php:507
+#: options/options.php:516 options/options.php:525
+msgid ""
+"Choose a vibrant color for this metro color (leave blank for default value)."
+msgstr ""
+
+#: options/options.php:479
+msgid "Metro #1 Shade #1"
+msgstr ""
+
+#: options/options.php:480
+msgid ""
+"Choose a darker shade of Metro #1 color (leave blank for default value)."
+msgstr ""
+
+#: options/options.php:488
+msgid "Metro #1 Shade #2"
+msgstr ""
+
+#: options/options.php:489
+msgid ""
+"Choose an even darker shade of Metro #1 color (leave blank for default "
+"value)."
+msgstr ""
+
+#: options/options.php:497
+msgid "Metro #2"
+msgstr ""
+
+#: options/options.php:506
+msgid "Metro #3"
+msgstr ""
+
+#: options/options.php:515
+msgid "Metro #4"
+msgstr ""
+
+#: options/options.php:524
+msgid "Metro #5"
+msgstr ""
+
+#: options/options.php:545
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php:546
+msgid "Enter any custom CSS here to apply it to your theme."
+msgstr ""
+
+#: options/options.php:572
+msgid "Post Social Icons"
+msgstr ""
+
+#: options/options.php:573
+msgid "Select wether to activate the AddToAny social post buttons."
+msgstr ""
+
+#: options/options.php:584
+msgid "Header Social Icons"
+msgstr ""
+
+#: options/options.php:585
+msgid ""
+"You can choose not to display any social icons at all within the header, "
+"disabling all of the below settings."
+msgstr ""
+
+#: options/options.php:595
+msgid "Facebook URL"
+msgstr ""
+
+#: options/options.php:596
+msgid "Add the full URL to your Facebook page."
+msgstr ""
+
+#: options/options.php:604
+msgid "Twitter URL"
+msgstr ""
+
+#: options/options.php:605
+msgid "Add the full URL to your Twitter page."
+msgstr ""
+
+#: options/options.php:613
+msgid "YouTube URL"
+msgstr ""
+
+#: options/options.php:614
+msgid "Add the full URL to your YouTube page."
+msgstr ""
+
+#: options/options.php:622
+msgid "Instagram URL"
+msgstr ""
+
+#: options/options.php:623
+msgid "Add the full URL to your Instagram page."
+msgstr ""
+
+#: options/options.php:631
+msgid "Pinterest URL"
+msgstr ""
+
+#: options/options.php:632
+msgid "Add the full URL to your Pinterest page."
+msgstr ""
+
+#: options/options.php:640
+msgid "SoundCloud URL"
+msgstr ""
+
+#: options/options.php:641
+msgid "Add the full URL to your SoundCloud page."
+msgstr ""
+
+#: options/options.php:649
+msgid "Google Plus URL"
+msgstr ""
+
+#: options/options.php:650
+msgid "Add the full URL to your Google Plus page."
+msgstr ""
+
+#: options/options.php:658
+msgid "Flickr URL"
+msgstr ""
+
+#: options/options.php:659
+msgid "Add the full URL to your Flickr page."
+msgstr ""
+
+#: options/options.php:667
+msgid "LinkedIn URL"
+msgstr ""
+
+#: options/options.php:668
+msgid "Add the full URL to your LinkedIn page."
+msgstr ""
+
+#: options/options.php:676
+msgid "Dribbble URL"
+msgstr ""
+
+#: options/options.php:677
+msgid "Add the full URL to your Dribbble page."
+msgstr ""
+
+#: options/options.php:685
+msgid "Vimeo URL"
+msgstr ""
+
+#: options/options.php:686
+msgid "Add the full URL to your Vimeo page."
+msgstr ""
+
+#: options/options.php:694
+msgid "Deviant Art URL"
+msgstr ""
+
+#: options/options.php:695
+msgid "Add the full URL to your Deviant Art page."
+msgstr ""
+
+#: options/options.php:703
+msgid "Skype URL"
+msgstr ""
+
+#: options/options.php:704
+msgid "Add the full URL to your Skype page."
+msgstr ""
+
+#: options/options.php:726
+msgid "Comments Selector"
+msgstr ""
+
+#: options/options.php:727
+msgid "Select a commenting system to use, if any."
+msgstr ""
+
+#: options/options.php:739
+msgid "Disqus Universal Code"
+msgstr ""
+
+#: options/options.php:740
+msgid ""
+"If you selected to use the Disqus commenting system, paste your UNIVERSAL "
+"CODE here to activate comments."
+msgstr ""
+
+#: options/options.php:756
+msgid "META Description"
+msgstr ""
+
+#: options/options.php:757
+msgid "Add your custom META description text (optional)."
+msgstr ""
+
+#: options/options.php:765
+msgid "META Keywords"
+msgstr ""
+
+#: options/options.php:766
+msgid "Add your custom META keywords, seperated by commas (optional)."
+msgstr ""
+
+#: options/options.php:781
+msgid "Tracking Code"
+msgstr ""
+
+#: options/options.php:782
+msgid "Add your analytics tracking code here (optional)."
+msgstr ""

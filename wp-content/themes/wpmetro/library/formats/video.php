@@ -1,0 +1,1 @@
+<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/format_video.png" alt="post_format_video" class="post-format" />

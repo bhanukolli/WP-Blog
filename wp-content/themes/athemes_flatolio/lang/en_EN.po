@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flatolio\n"
+"POT-Creation-Date: 2014-03-20 08:27-0000\n"
+"PO-Revision-Date: 2014-03-20 08:27-0000\n"
+"Last-Translator: \n"
+"Language-Team: WPBlink.com <mail@wpblink.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:7
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"The page you were trying to reach has either been renamed or moved to a new "
+"location. This is usually the result of a bad or outdated link."
+msgstr ""
+
+#: 404.php:10
+msgid "We apologize for any inconvenience this may have caused you."
+msgstr ""
+
+#: archive.php:20
+msgid "Archives"
+msgstr ""
+
+#: archive.php:35
+msgid "Category Archive"
+msgstr ""
+
+#: archive.php:37
+msgid "Tag Archive"
+msgstr ""
+
+#: archive.php:39
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:41
+msgid "Monthly Archive"
+msgstr ""
+
+#: archive.php:54 search.php:17
+msgid "By"
+msgstr ""
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:19 comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:20 comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21 comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Name"
+msgstr ""
+
+#: comments.php:50
+msgid "Email"
+msgstr ""
+
+#: header.php:50
+msgid "enhanced by WPBlink.com"
+msgstr ""
+
+#: index.php:50 index.php:63 single-portfolio.php:64 single-portfolio.php:77
+msgid "Readers Comments"
+msgstr ""
+
+#: index.php:55 single-portfolio.php:69
+msgid "ERROR: Disqus Universal Code missing from theme options, please fix."
+msgstr ""
+
+#: index.php:70
+msgid "More Posts"
+msgstr ""
+
+#: index.php:86
+msgid "Related Topics"
+msgstr ""
+
+#: index.php:91
+msgid "Post Info"
+msgstr ""
+
+#: index.php:93 single-portfolio.php:37
+msgid "By: "
+msgstr ""
+
+#: index.php:94
+msgid "Posted: "
+msgstr ""
+
+#: library/inc/logo.php:49
+msgid "Use as Logo"
+msgstr ""
+
+#: library/inc/logo.php:64
+msgid "Custom Logo"
+msgstr ""
+
+#: library/inc/logo.php:113
+msgid "Logo Options"
+msgstr ""
+
+#: library/inc/logo.php:114
+msgid "Logo"
+msgstr ""
+
+#: library/inc/logo.php:115
+msgid "Logo Preview"
+msgstr ""
+
+#: library/inc/logo.php:129
+msgid "You can upload any custom image to use as your logo."
+msgstr ""
+
+#: library/inc/logo.php:130
+msgid "(Rectangular images for best results)."
+msgstr ""
+
+#: library/inc/logo.php:138
+msgid "Upload Logo"
+msgstr ""
+
+#: library/inc/logo.php:140
+msgid "Delete Logo"
+msgstr ""
+
+#: library/inc/menus.php:41
+msgid "Home"
+msgstr ""
+
+#: library/inc/widgets.php:183
+msgid "Banner Code:"
+msgstr ""
+
+#: library/inc/widgets.php:187
+msgid ""
+"Add your advertisement code for this space (300*250px for best results)."
+msgstr ""
+
+#: library/inc/widgets.php:188
+msgid ""
+"Add a class of img_responsive to image-based advertisements to make them "
+"responsive."
+msgstr ""
+
+#: library/inc/widgets.php:241
+msgid "about"
+msgstr ""
+
+#: library/inc/widgets.php:323 library/inc/widgets.php:621
+#: library/inc/widgets.php:863 library/inc/widgets.php:1135
+#: library/inc/widgets.php:1319 library/inc/widgets.php:1429
+#: library/inc/widgets.php:1610 library/inc/widgets.php:1957
+#: library/inc/widgets.php:2177
+msgid "Title:"
+msgstr ""
+
+#: library/inc/widgets.php:326 library/inc/widgets.php:624
+#: library/inc/widgets.php:866 library/inc/widgets.php:1138
+#: library/inc/widgets.php:1613 library/inc/widgets.php:1960
+#: library/inc/widgets.php:2180
+msgid "Enter your custom title for this section."
+msgstr ""
+
+#: library/inc/widgets.php:331
+msgid "Content Text:"
+msgstr ""
+
+#: library/inc/widgets.php:334
+msgid "Add your custom text here, basic HTML allowed."
+msgstr ""
+
+#: library/inc/widgets.php:339
+msgid "Image URL:"
+msgstr ""
+
+#: library/inc/widgets.php:342
+msgid ""
+"Add the full URL (including http://) to your chosen image (800*600px (or "
+"similar) for best results (optional)."
+msgstr ""
+
+#: library/inc/widgets.php:347 library/inc/widgets.php:871
+#: library/inc/widgets.php:1618 library/inc/widgets.php:2185
+#: library/inc/widgets.php:2193
+msgid "Button Text:"
+msgstr ""
+
+#: library/inc/widgets.php:350 library/inc/widgets.php:874
+#: library/inc/widgets.php:1621 library/inc/widgets.php:2188
+#: library/inc/widgets.php:2196
+msgid "Enter your custom button text (optional)."
+msgstr ""
+
+#: library/inc/widgets.php:355 library/inc/widgets.php:879
+#: library/inc/widgets.php:1626 library/inc/widgets.php:2201
+msgid "Button URL:"
+msgstr ""
+
+#: library/inc/widgets.php:358 library/inc/widgets.php:882
+#: library/inc/widgets.php:1629 library/inc/widgets.php:2204
+msgid ""
+"Enter the full destination URL (including http://) for the button (optional)."
+msgstr ""
+
+#: library/inc/widgets.php:422
+msgid "quote"
+msgstr ""
+
+#: library/inc/widgets.php:629
+msgid "Quote Text:"
+msgstr ""
+
+#: library/inc/widgets.php:632 library/inc/widgets.php:648
+#: library/inc/widgets.php:664 library/inc/widgets.php:680
+#: library/inc/widgets.php:696
+msgid "Add your custom quote text here, basic HTML allowed."
+msgstr ""
+
+#: library/inc/widgets.php:637
+msgid "Name:"
+msgstr ""
+
+#: library/inc/widgets.php:640 library/inc/widgets.php:656
+#: library/inc/widgets.php:672 library/inc/widgets.php:688
+#: library/inc/widgets.php:704
+msgid "Add your custom quote name text here (optional)."
+msgstr ""
+
+#: library/inc/widgets.php:645
+msgid "Quote Text #2:"
+msgstr ""
+
+#: library/inc/widgets.php:653
+msgid "Name #2:"
+msgstr ""
+
+#: library/inc/widgets.php:661
+msgid "Quote Text #3:"
+msgstr ""
+
+#: library/inc/widgets.php:669
+msgid "Name #3:"
+msgstr ""
+
+#: library/inc/widgets.php:677
+msgid "Quote Text #4:"
+msgstr ""
+
+#: library/inc/widgets.php:685
+msgid "Name #4:"
+msgstr ""
+
+#: library/inc/widgets.php:693
+msgid "Quote Text #5:"
+msgstr ""
+
+#: library/inc/widgets.php:701
+msgid "Name #5:"
+msgstr ""
+
+#: library/inc/widgets.php:750
+msgid "portfolio"
+msgstr ""
+
+#: library/inc/widgets.php:937
+msgid "promotion"
+msgstr ""
+
+#: library/inc/widgets.php:1143
+msgid "Image #1 URL:"
+msgstr ""
+
+#: library/inc/widgets.php:1146 library/inc/widgets.php:1170
+#: library/inc/widgets.php:1194 library/inc/widgets.php:1218
+msgid "Enter the full URL (including http://) of your chosen image."
+msgstr ""
+
+#: library/inc/widgets.php:1151
+msgid "Image #1 Text:"
+msgstr ""
+
+#: library/inc/widgets.php:1154 library/inc/widgets.php:1178
+#: library/inc/widgets.php:1202 library/inc/widgets.php:1226
+msgid "Enter your custom text for this area."
+msgstr ""
+
+#: library/inc/widgets.php:1159
+msgid "Destination URL #1:"
+msgstr ""
+
+#: library/inc/widgets.php:1162 library/inc/widgets.php:1186
+#: library/inc/widgets.php:1210 library/inc/widgets.php:1234
+msgid "Enter the full destination URL (including http://) for this section."
+msgstr ""
+
+#: library/inc/widgets.php:1167
+msgid "Image #2 URL:"
+msgstr ""
+
+#: library/inc/widgets.php:1175
+msgid "Image #2 Text:"
+msgstr ""
+
+#: library/inc/widgets.php:1183
+msgid "Destination URL #2:"
+msgstr ""
+
+#: library/inc/widgets.php:1191
+msgid "Image #3 URL:"
+msgstr ""
+
+#: library/inc/widgets.php:1199
+msgid "Image #3 Text:"
+msgstr ""
+
+#: library/inc/widgets.php:1207
+msgid "Destination URL #3:"
+msgstr ""
+
+#: library/inc/widgets.php:1215
+msgid "Image #4 URL:"
+msgstr ""
+
+#: library/inc/widgets.php:1223
+msgid "Image #4 Text:"
+msgstr ""
+
+#: library/inc/widgets.php:1231
+msgid "Destination URL #4:"
+msgstr ""
+
+#: library/inc/widgets.php:1323 library/inc/widgets.php:1433
+msgid "Give this widget a title, or leave blank to display the category name."
+msgstr ""
+
+#: library/inc/widgets.php:1327 library/inc/widgets.php:1437
+msgid "Category: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:1331 library/inc/widgets.php:1441
+msgid "Select a specific category to display posts from."
+msgstr ""
+
+#: library/inc/widgets.php:1335 library/inc/widgets.php:1445
+msgid "All Categories? &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:1339 library/inc/widgets.php:1449
+msgid ""
+"Check the box to display posts from all categories instead, overriding the "
+"above setting."
+msgstr ""
+
+#: library/inc/widgets.php:1343 library/inc/widgets.php:1453
+msgid "Show X Posts: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:1347 library/inc/widgets.php:1457
+msgid "Enter how many posts to display (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:1351 library/inc/widgets.php:1461
+msgid "Skip X Posts: &nbsp;"
+msgstr ""
+
+#: library/inc/widgets.php:1355 library/inc/widgets.php:1465
+msgid "Enter how many posts to skip before displaying the posts (numerical)."
+msgstr ""
+
+#: library/inc/widgets.php:1509
+msgid "latest"
+msgstr ""
+
+#: library/inc/widgets.php:1685
+msgid "contact"
+msgstr ""
+
+#: library/inc/widgets.php:1965
+msgid "Text Line #1:"
+msgstr ""
+
+#: library/inc/widgets.php:1968 library/inc/widgets.php:1976
+#: library/inc/widgets.php:1984 library/inc/widgets.php:1992
+#: library/inc/widgets.php:2000 library/inc/widgets.php:2008
+msgid "Enter your custom text for this line."
+msgstr ""
+
+#: library/inc/widgets.php:1973
+msgid "Text Line #2:"
+msgstr ""
+
+#: library/inc/widgets.php:1981
+msgid "Text Line #3:"
+msgstr ""
+
+#: library/inc/widgets.php:1989
+msgid "Text Line #4:"
+msgstr ""
+
+#: library/inc/widgets.php:1997
+msgid "Text Line #5:"
+msgstr ""
+
+#: library/inc/widgets.php:2005
+msgid "Text Line #6:"
+msgstr ""
+
+#: library/inc/widgets.php:2013
+msgid "Twitter URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2016
+msgid "Enter the full URL (including http://) of your Twitter page."
+msgstr ""
+
+#: library/inc/widgets.php:2021
+msgid "Facebook URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2024
+msgid "Enter the full URL (including http://) of your Facebook page."
+msgstr ""
+
+#: library/inc/widgets.php:2029
+msgid "Dribbble URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2032
+msgid "Enter the full URL (including http://) of your Dribbble page."
+msgstr ""
+
+#: library/inc/widgets.php:2037
+msgid "Youtube URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2040
+msgid "Enter the full URL (including http://) of your Youtube page."
+msgstr ""
+
+#: library/inc/widgets.php:2045
+msgid "Pinterest URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2048
+msgid "Enter the full URL (including http://) of your Pinterest page."
+msgstr ""
+
+#: library/inc/widgets.php:2053
+msgid "Instagram URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2056
+msgid "Enter the full URL (including http://) of your Instagram page."
+msgstr ""
+
+#: library/inc/widgets.php:2061
+msgid "Flickr URL:"
+msgstr ""
+
+#: library/inc/widgets.php:2064
+msgid "Enter the full URL (including http://) of your Flickr page."
+msgstr ""
+
+#: library/inc/widgets.php:2069
+msgid "CF7 Shortcode:"
+msgstr ""
+
+#: library/inc/widgets.php:2072
+msgid "Enter your Contact Form 7 Shortcode."
+msgstr ""
+
+#: library/inc/widgets.php:2121
+msgid "video"
+msgstr ""
+
+#: library/init.php:202 library/init.php:203
+msgid "Portfolio"
+msgstr ""
+
+#: library/init.php:236
+msgid "Pingback:"
+msgstr ""
+
+#: library/init.php:236 library/init.php:259
+msgid "Edit"
+msgstr ""
+
+#: library/init.php:250
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr ""
+
+#: library/init.php:255
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/init.php:262
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/init.php:268
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: library/init.php:446
+msgid "COPYRIGHT"
+msgstr ""
+
+#: library/init.php:446
+msgid "&copy;"
+msgstr ""
+
+#: library/init.php:446
+msgid "."
+msgstr ""
+
+#: options/options.php:26
+msgid "General"
+msgstr ""
+
+#: options/options.php:27
+msgid "Appearance"
+msgstr ""
+
+#: options/options.php:28
+msgid "Miscellaneous"
+msgstr ""
+
+#: options/options.php:45 options/options.php:105
+msgid "Theme Options"
+msgstr ""
+
+#: options/options.php:61
+msgid "Default Field"
+msgstr ""
+
+#: options/options.php:62
+msgid "This is a default description."
+msgstr ""
+
+#: options/options.php:98
+msgid "Theme options updated."
+msgstr ""
+
+#: options/options.php:116
+msgid "Save Changes"
+msgstr ""
+
+#: options/options.php:305
+msgid "Sitename Text"
+msgstr ""
+
+#: options/options.php:306
+msgid "Enter your custom sitename text."
+msgstr ""
+
+#: options/options.php:313
+msgid "Description Text"
+msgstr ""
+
+#: options/options.php:314
+msgid "Enter your custom site description text."
+msgstr ""
+
+#: options/options.php:333
+msgid "Post Social Icons"
+msgstr ""
+
+#: options/options.php:334
+msgid "Select wether to activate the AddToAny social post buttons."
+msgstr ""
+
+#: options/options.php:345
+msgid "Date Format"
+msgstr ""
+
+#: options/options.php:346
+msgid "Select your preferred global date format."
+msgstr ""
+
+#: options/options.php:375
+msgid "Footer Bar"
+msgstr ""
+
+#: options/options.php:376
+msgid "Select the position of the footer bar."
+msgstr ""
+
+#: options/options.php:388
+msgid "Back To Top Button"
+msgstr ""
+
+#: options/options.php:389
+msgid "Do you wish to enable the Back To Top button within the footer?"
+msgstr ""
+
+#: options/options.php:399
+msgid "Copyright Text"
+msgstr ""
+
+#: options/options.php:400
+msgid ""
+"Add your custom copyright text here (HTML allowed for linking)<br />Or leave "
+"blank to display dynamic copyright text."
+msgstr ""
+
+#: options/options.php:422
+msgid "Header Bar"
+msgstr ""
+
+#: options/options.php:423
+msgid "Select the style of the header bar."
+msgstr ""
+
+#: options/options.php:434
+msgid "Highlight"
+msgstr ""
+
+#: options/options.php:435
+msgid ""
+"Choose a vibrant color that is used throughout the theme to highlight many "
+"elements (leave blank for default value)."
+msgstr ""
+
+#: options/options.php:457
+msgid "Custom CSS"
+msgstr ""
+
+#: options/options.php:458
+msgid "Enter any custom CSS here to apply it to your theme."
+msgstr ""
+
+#: options/options.php:488
+msgid "Comments Selector"
+msgstr ""
+
+#: options/options.php:489
+msgid "Select a commenting system to use, if any."
+msgstr ""
+
+#: options/options.php:501
+msgid "Disqus Universal Code"
+msgstr ""
+
+#: options/options.php:502
+msgid ""
+"If you selected to use the Disqus commenting system, paste your UNIVERSAL "
+"CODE here to activate comments."
+msgstr ""
+
+#: options/options.php:521
+msgid "META Description"
+msgstr ""
+
+#: options/options.php:522
+msgid "Add your custom META description text (optional)."
+msgstr ""
+
+#: options/options.php:530
+msgid "META Keywords"
+msgstr ""
+
+#: options/options.php:531
+msgid "Add your custom META keywords, seperated by commas (optional)."
+msgstr ""
+
+#: options/options.php:546
+msgid "Tracking Code"
+msgstr ""
+
+#: options/options.php:547
+msgid "Add your analytics tracking code here (optional)."
+msgstr ""
+
+#: single-portfolio.php:37
+msgid "Published: "
+msgstr ""
+
+#: single-portfolio.php:53
+msgid "Open/Close"
+msgstr ""

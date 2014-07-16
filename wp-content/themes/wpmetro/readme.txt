@@ -1,0 +1,1 @@
+Refer to the provided theme documentation.

@@ -1,0 +1,138 @@
+.wrap {
+	background: #222222;
+	padding: 30px 40px 20px 40px;
+	margin: 20px 0px 0px 0px;
+	max-width: 580px;
+}
+
+.ui-widget-content {
+	max-width: 580px;
+	color: #eeeeee;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.ui-tabs-nav {
+	border-bottom: 1px solid #0074a2;
+	height: 33px;
+	margin: 30px 0px 40px 0px;
+	padding: 0;
+}
+
+.ui-tabs-nav li {
+	display: block;
+	float: left;
+	margin: 0;
+}
+
+.ui-tabs-nav li a {
+	padding: 4px 20px 6px;
+	font-weight: bold;
+}
+
+.ui-tabs-nav li a {
+	border-style: solid;
+	border-color: #0074a2 #0074a2 #0074a2;
+	border-width: 1px 1px 0;
+	color: #efefef;
+	display: inline-block;
+	padding: 10px 15px 9px;
+	text-decoration: none;
+	margin: -5px 10px 0px 0;
+
+
+	background: transparent;
+	  -webkit-transition: all .5s ease;
+     -moz-transition: all .5s ease;
+       -o-transition: all .5s ease;
+      -ms-transition: all .5s ease;
+          transition: all .5s ease;
+}
+
+.ui-tabs-nav li.ui-tabs-selected a,
+.ui-tabs-nav li.ui-state-active a {
+	border-style: solid;
+	border-color: #0074a2 #0074a2 #0074a2;
+	border-width: 1px;
+	color: #ffffff;
+	background: #3498db;
+}
+
+.ui-tabs-nav a:hover {
+	background: #000000;
+	color: #eeeeee;
+}
+
+.ui-tabs-panel {
+	clear: both;
+}
+
+.ui-tabs-panel h3 {
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	margin: 0px 0px -30px 0px;
+	font-weight: normal;
+	font-style: italic;
+	padding: 0 0 0px;
+	font-size: 18px;
+	line-height: 22px;
+	color: #ffffff;
+}
+
+.ui-tabs-panel h4 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #3498db !important;
+	margin: 10px 0px 20px -12px;
+	text-transform: uppercase;
+}
+
+.wrap h3, .wrap table {
+	display: none;
+}
+
+label {
+	color: #ecf0f1 !important;
+	font-weight: normal !important;
+	text-transform: uppercase;
+	font-size: 10px;
+	text-shadow: none !important;
+}
+
+h2.options_title {
+	font-size: 26px;
+	color: #ffffff !important;
+	font-weight: normal;
+}
+
+span.description {
+	font-size: 11px;
+	color: #ecf0f1;
+}
+
+div.updated {
+	padding: 5px 10px 5px 10px;
+	margin: 30px 0px 40px 0px !important;
+	background: #2ecc71;
+	color: #ecf0f1;
+	font-weight: bold;
+	border: 0px;
+}
+
+.social {
+	width: 18px;
+	height: 18px;
+	border: 0px;
+	float: left;
+	display: block;
+	padding: 0px 10px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+textarea {
+	min-width: 350px;
+	min-height: 160px;
+}
+
+input[type=text] {
+	min-width: 300px;
+}
