@@ -70,7 +70,7 @@ CREATE TABLE `wp_comments` (
   KEY `comment_approved_date_gmt` (`comment_approved`,`comment_date_gmt`),
   KEY `comment_date_gmt` (`comment_date_gmt`),
   KEY `comment_parent` (`comment_parent`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -79,7 +79,7 @@ CREATE TABLE `wp_comments` (
 
 LOCK TABLES `wp_comments` WRITE;
 /*!40000 ALTER TABLE `wp_comments` DISABLE KEYS */;
-INSERT INTO `wp_comments` VALUES (1,7,'Frances','ramonacoombes@imap.cc','http://Margery.about.com','117.173.194.221','2014-08-20 15:32:09','2014-08-20 22:32:09','I see a lot of interesting posts here. You have to spend a lot of time writing, i know how to \r\nsave you a lot of work, there is an online tool that creates high quality,\r\nSEO friendly posts in seconds, just type in google \r\n- k2 unlimited content',0,'0','Mozilla/5.0 (Windows NT 6.2; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0','',0,0),(2,7,'Zachery','mohammedpierre@gmail.com','http://Lan.wikispaces.com','117.173.200.85','2014-10-01 15:51:34','2014-10-01 22:51:34','I read a lot of interesting posts here. Probably you  spend a lot of time writing, \r\ni know how to save you a lot of time, there is an online tool that creates \r\nhigh quality, SEO friendly articles in minutes, just \r\nsearch in google  - laranitas free content source',0,'0','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.8','',0,0);
+INSERT INTO `wp_comments` VALUES (1,7,'Frances','ramonacoombes@imap.cc','http://Margery.about.com','117.173.194.221','2014-08-20 15:32:09','2014-08-20 22:32:09','I see a lot of interesting posts here. You have to spend a lot of time writing, i know how to \r\nsave you a lot of work, there is an online tool that creates high quality,\r\nSEO friendly posts in seconds, just type in google \r\n- k2 unlimited content',0,'0','Mozilla/5.0 (Windows NT 6.2; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0','',0,0),(2,7,'Zachery','mohammedpierre@gmail.com','http://Lan.wikispaces.com','117.173.200.85','2014-10-01 15:51:34','2014-10-01 22:51:34','I read a lot of interesting posts here. Probably you  spend a lot of time writing, \r\ni know how to save you a lot of time, there is an online tool that creates \r\nhigh quality, SEO friendly articles in minutes, just \r\nsearch in google  - laranitas free content source',0,'0','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.8 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.8','',0,0),(3,7,'clothRhind','somersanog@ziza.ru','http://ovidbox.fulba.com','46.118.152.110','2014-10-10 02:29:02','2014-10-10 09:29:02','http://edwybala.fulba.com/kedy-kupit-v-internet-magazine.html рюмки gipfel http://groglug.fulba.com/krossovki-nike-so-skidkoy.html springblade adidas морейн марка живанши  [url=http://warpdut.fulba.com/platya-s-odnim-rukavom.html] 40 недель [/url] <a href=\"http://warpdut.fulba.com/salony-platev-v-nizhnem.html\" rel=\"nofollow\"> юдашкин джинс</a>',0,'0','Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.102 Safari/537.36','',0,0);
 /*!40000 ALTER TABLE `wp_comments` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -377,4 +377,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2014-10-10  1:51:53
+-- Dump completed on 2014-10-10  7:51:59
